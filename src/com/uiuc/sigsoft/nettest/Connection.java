@@ -9,7 +9,7 @@ import java.net.URL;
 
 public class Connection {
 
-    private final String USER_AGENT = "SigSoftBot/1.0"; // Identify ourselves to websites
+    private final String USER_AGENT = "RP Conf Bot/1.0"; // Identify ourselves to websites
     private URL url;
     private HttpURLConnection connection;
     public String responseBody = "";
